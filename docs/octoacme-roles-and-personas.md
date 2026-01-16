@@ -75,7 +75,120 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX/UI Designer
+
+### Role Summary
+Leads user experience research, designs wireframes and mockups, defines interaction and visual standards, and coordinates usability testing.
+
+### Responsibilities
+- Conduct user research and usability studies
+- Create wireframes, prototypes, and visual specifications
+- Ensure accessibility and usability standards are met
+- Collaborate with PdM and Developers on handoff and feasibility
+- Coordinate design reviews and incorporate feedback
+
+### Goals
+- Improve user satisfaction and adoption
+- Ensure consistency and usability across products
+
+### Typical Communication
+- Design review sessions
+- Documentation of design systems
+- Feedback loops with Developers, PM, and QA
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Owns automation for CI/CD pipelines, deployment processes, and system monitoring, and supports incident response and reliability improvements.
+
+### Responsibilities
+- Implement and maintain CI/CD pipelines
+- Automate deployment, rollback, and monitoring processes
+- Collaborate on release planning and infrastructure needs
+- Support security, authentication, and compliance requirements
+- Provide incident response support and postmortem analysis
+
+### Goals
+- Increase release reliability and frequency
+- Minimize downtime and deployment risk
+- Enable self-service and automation for the team
+
+### Typical Communication
+- Release planning meetings
+- Incident postmortems
+- Documentation of runbooks and onboarding guides
+
+---
+
+## Technical Writer
+
+### Role Summary
+Drafts and maintains technical and process documentation, ensures clarity, accuracy, and knowledge sharing across the team.
+
+### Responsibilities
+- Document processes, APIs, and key decisions
+- Maintain alignment on terminology and style
+- Write onboarding guides and update living docs
+- Collaborate with Developers and PMs on keeping documentation current
+
+### Goals
+- Improve onboarding and reduce context gaps
+- Maintain up-to-date, accurate documentation
+- Lower barriers to contribution and cross-team alignment
+
+### Typical Communication
+- Documentation reviews
+- Working sessions with Dev, PM, Customer Success
+- Feedback loops via doc comments and PRs
+
+---
+
+## Customer Success/Support Lead
+
+### Role Summary
+Captures user feedback, manages support interactions, and champions customer needs throughout the project lifecycle.
+
+### Responsibilities
+- Collect and synthesize user feedback and requests
+- Track support issues and link them to roadmap/work items
+- Validate releases meet user requirements
+- Relay pain points and insights to PdM and Devs
+
+### Goals
+- Enhance customer satisfaction and retention
+- Ensure customer voice shapes priorities and improvements
+
+### Typical Communication
+- Regular calls with key users
+- Bug/feedback escalations to product and engineering
+- Summaries and presentations of customer insights
+
+---
+
+## Security/Compliance Lead
+
+### Role Summary
+Assesses risk, sets security and compliance standards, and ensures all deliverables meet applicable requirements.
+
+### Responsibilities
+- Define security and compliance controls
+- Assess releases for risk and regulatory impact
+- Support incident and vulnerability response
+- Advise on secure architectures with DevOps/Dev
+
+### Goals
+- Minimize security/compliance gaps and incidents
+- Build a culture of proactive risk management
+
+### Typical Communication
+- Risk reviews and escalations
+- Security controls documentation
+- Briefings with engineering, PM, and stakeholders
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
